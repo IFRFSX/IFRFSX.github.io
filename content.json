@@ -1,0 +1,33 @@
+{
+ "address": "1DreERVuYFRwGwkvSei3iCjqYFaSAeQJ6e",
+ "description": "",
+ "files": {
+  "index.html": {
+   "sha512": "7faca9528e2c2c5f6a9372c366600fa2670016a001b49cc45f27c4cc13cc7d0d",
+   "size": 9760
+  },
+  "jiaocheng/JC_Top.html": {
+   "sha512": "62d0cfb5bf59062446a7eab6beb69cb9342c63ca9da5115615262a78bbc5dbc9",
+   "size": 24778
+  },
+  "pictures/IF-TEAT-N.png": {
+   "sha512": "49fec7af37e9d94c3be41693c7614df6b6166d44bec1093156d64f10d4d3cb48",
+   "size": 455517
+  },
+  "pictures/JT/JC_Top_html_5051e83c660430cd.png": {
+   "sha512": "a3d10ce3a753ee638a940a5ee8e7fcd4dc00829864aeda236bba0ccf39c32054",
+   "size": 59265
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1526203902,
+ "postmessage_nonce_security": true,
+ "signers_sign": "GxHeIEnT70UvFKljOQIIe916T4ZFiD4WQ2mMT8ONyAutDgRrymJ0qOm2R2nFm3p2q2IUk4Tz9ZugE5DCaHcC+04=",
+ "signs": {
+  "1DreERVuYFRwGwkvSei3iCjqYFaSAeQJ6e": "G2jA+JfuDr1sgNVUh43XWDLEbRXfR9Soue2Yd18bQxRRJSLmUaghJYdc5ww6Pmau7+HfwgC3Xm381QXvNXS99wc="
+ },
+ "signs_required": 1,
+ "title": "1DreERVuYFRwGwkvSei3iCjqYFaSAeQJ6e - ZeroNet_",
+ "zeronet_version": "0.6.2"
+}
